@@ -1,7 +1,7 @@
 
 ---
-title: "Documentation"
-linkTitle: "Documentation"
+title: "Introduction to ALBA Controls"
+linkTitle: "Introduction to ALBA Controls"
 weight: 10
 menu:
   main:
