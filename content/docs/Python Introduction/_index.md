@@ -1,17 +1,30 @@
 ---
-title: "Python Introduction"
-linkTitle: "Python Introduction"
+title: "Introduction to Python"
+linkTitle: "Introcution to Python"
 weight: 1
 description: >
-  What does your user need to understand about your project in order to use it - or potentially contribute to it? 
+  At ALBA Controls Section, we use Python to develop most of our software stack.
+  Here is a short introduction to python that will help you to start with this
+  programming lenguaje.
 ---
+# ALBA Courses
+Here at ALBA we have 2 Python internal courses to start:
+* ALBA Introduction to Python
+* ALBA Intermediate Course
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+## ALBA Introduction to Python
+Basic knowledge of python: [pythoncourse-intro](https://gitlab.com/alba-synchrotron/controls-section/pythoncourse-intro)
 
-For many projects, users may not need much information beyond the information in the [Overview](/docs/overview/), so this section is **optional**. However if there are areas where your users will need a more detailed understanding of a given term or feature in order to do anything useful with your project (or to not make mistakes when using it) put that information in this section. For example, you may want to add some conceptual pages if you have a large project with many components and a complex architecture.
+## ALBA Intermediate Course
+Introduction to Python object-oriented programming and some ALBA specific tools:
+[pythoncourse-intermediate](https://gitlab.com/alba-synchrotron/controls-section/pythoncourse-intermediate)
 
-Remember to focus on what the user needs to know, not just what you think is interesting about your project! If they don’t need to understand your original design decisions to use or contribute to the project, don’t put them in, or include your design docs in your repo and link to them. Similarly, most users will probably need to know more about how features work when in use rather than how they are implemented. Consider a separate architecture page for more detailed implementation and system design information that potential project contributors can consult.
+
+# Other tools
+Some students use other tools to learn python. Here is a sort list:
+* [SoloLearn](https://www.sololearn.com/learning/1073)
+* [HackerRank](https://www.hackerrank.com/)
+* [Free Code Camp](https://www.freecodecamp.org/espanol/news/python-if-name-main/)
+* [PythonMania](https://www.pythonmania.net/es/2017/03/05/guion-bajo-en-python/)
 
 
