@@ -8,7 +8,9 @@ Here is a short introduction to python that will help you to start with this
 programming lenguaje. Your final project will be based on this programming
 lenguaje and a little knowledge is required.
 
+
 > You know python?? Try it! A refresh is always a good idea.
+
 
 # ALBA Courses
 Here at ALBA we have 2 Python internal courses to start:
