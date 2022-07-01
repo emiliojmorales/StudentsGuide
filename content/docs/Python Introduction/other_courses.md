@@ -1,5 +1,5 @@
 ---
-title: "ALBA Courses"
+title: "Other Courses"
 weight: 3
 ---
 # Other tools
