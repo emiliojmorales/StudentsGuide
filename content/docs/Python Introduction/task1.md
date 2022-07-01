@@ -1,8 +1,6 @@
 ---
-title: "Task1"
-weight: 2
-description: >
-  Your first task.
+title: "Task 1"
+weight: 4
 ---
 
 # First Task
