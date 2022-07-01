@@ -18,3 +18,11 @@ lenguaje and a little knowledge is required.
 > You know python?? Try it! A refresh is always a good idea.
 
 
+## Some links
+Here we provide some links that may you will know:
+* [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Official Website](https://www.python.org/)
+* [Official documentation](https://docs.python.org/3/)
+
+
+

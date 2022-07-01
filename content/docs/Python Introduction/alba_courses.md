@@ -2,10 +2,12 @@
 title: "ALBA Courses"
 weight: 2
 ---
-# ALBA Courses
+
 Here at ALBA we have 2 Python internal courses to start:
 * ALBA Introduction to Python
 * ALBA Intermediate Course
+
+There are a good point to start/refresh and boost your python skills.
 
 ## ALBA Introduction to Python
 Basic knowledge of python: [pythoncourse-intro](https://gitlab.com/alba-synchrotron/controls-section/pythoncourse-intro)
